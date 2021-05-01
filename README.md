@@ -2,7 +2,7 @@
 
 TODO リストをナイーブに実装
 
-https://sadnessojisan.github.io/naive-todo/
+https://introduction-of-react-introduction-book.github.io/naive-todo/
 
 ## dev
 
